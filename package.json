@@ -1,0 +1,21 @@
+{
+  "name": "project11-td",
+  "version": "1.0.0",
+  "description": "Learning how to optimize a website. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "project11",
+    "p"
+  ],
+  "author": "Jorge Valerio",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.2"
+  }
+}
